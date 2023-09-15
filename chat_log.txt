@@ -1,0 +1,63 @@
+You : ok thank you 
+Jarvis : You're welcome.
+You : How are you 
+Jarvis : I'm doing well, thank you for asking.
+You : why brother how are you 
+Jarvis : I'm doing well, thank you for asking.
+You : hey what's the weather today 
+Jarvis : The weather is Cloudy with a chance of showers.
+You : how are you brother jarvis 
+Jarvis : I'm doing well, thank you for asking.
+You : Can you tell us about today's weather 
+Jarvis : The weather is Cloudy with a chance of showers.
+You : Who is the Prime Minister of India? 
+Jarvis : The current Prime Minister of India is Narendra Modi.
+You : When is the India-Pakistan cricket match? 
+Jarvis : The India-Pakistan cricket match is scheduled for February 15, 2020.
+You : ok exit again 
+Jarvis : You : ok exit again
+Jarvis : Goodbye!
+You : hey jarvis how are you 
+Jarvis : I'm doing well, thank you for asking.
+You : Can you do mathematics 
+Jarvis : Yes, I can do basic mathematics.
+You : close chrome 
+Jarvis : Closing all tabs.
+You : who was the second prime minister of india 
+Jarvis : The second prime minister of India was Lal Bahadur Shastri.
+You : Exit 
+Jarvis : Goodbye!
+You : who was albert einstein 
+Jarvis : Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics.
+You : One of the Two Pillars of Modern Physics 
+Jarvis : Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics.
+You : One of the two pillars of modern physics 
+Jarvis : Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics.
+You : youtube search for music 
+Jarvis : https://www.youtube.com/watch?v=xo-YxUrsRS8
+You : youtube search music 
+Jarvis : https://www.youtube.com/watch?v=xo-YxUrsRS8
+You : how are you ma 
+Jarvis : I'm doing well, thank you for asking.
+You : And tell me what's up 
+Jarvis : I'm doing well, thank you for asking.
+You : selenium selenium price 
+Jarvis : Selenium is a chemical element with the symbol Se and atomic number 34. It is a nonmetal (more rarely considered a metalloid) with properties that are intermediate between the elements above and below in the periodic table, sulfur and tellurium, and also has similarities to arsenic.
+You : Arya Kanya Vidyalaya 
+Jarvis : Arya Kanya Vidyalaya is a school for girls located in India.
+You : Using the Application 
+Jarvis : To use the application, simply ask a question or give a command. For example, you could say "Hey Jarvis, what's the weather today?" or "Hey Jarvis, can you do mathematics?"
+You : 39 seconds of material that I did attempt 
+Jarvis : I'm sorry, I don't understand what you're trying to say.
+You : What exactly the schedule of my department facilities are absent right to access their load 
+Jarvis : I'm sorry, I don't understand what you're trying to say.
+You : Prepare One Time Table Time Table 
+Jarvis : I'm sorry, I don't understand what you're trying to say.
+You : I Have Excel Data Every Time 
+Jarvis : I'm sorry, I don't understand what you're trying to say.
+You : and I Am Targeting System 
+Jarvis : I'm sorry, I don't understand what you're trying to say.
+You : Similarly in the company may be my sales manager is asking for some sort of pattern 
+Jarvis : I'm sorry, I don't understand what you're trying to say.
+You : Vetiver in English Language to English Single Statement Imperative 
+Jarvis : I'm sorry, I don't understand what you're trying to say.
